@@ -8,11 +8,11 @@ export function Header() {
     const currentDate = format(new Date(), 'EEEEEE, d MMMM', {
         locale: ptBR,
     });
-        
-    
+  
+ 
     return (
         <header className={Styles.headerContainer}>
-            <img src="/logo.svg" alt="Podcastr"/>
+            <img src="/logo.svg" alt="Podcastr" />
 
             <p>O melhor para você ouvir, sempre</p>
 
