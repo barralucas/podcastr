@@ -1,6 +1,6 @@
 ### Podcastr
 
-<img src="#" alt="moveit" height="425px">
+<img src="./podcastr.png" alt="moveit" height="425px">
 
 ### Sobre o projeto
 
