@@ -1,6 +1,6 @@
 ### Podcastr
 
-<img src="#" alt="podcastr" height="425px">
+<img src="./public/podcastr.png" alt="podcastr" height="425px">
 
 ### Sobre o projeto
 
