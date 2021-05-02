@@ -67,8 +67,10 @@ export default function Home({ latestEpisodes, allEpisodes }: HomeProps) {
                     <a >{episode.title}</a>
                   </Link>
                   <p>{episode.members}</p>
-                  <span>{episode.publishedAt}</span>
-                  <span>{episode.durationAsString}</span>
+                    <div className="dateAndDuration">
+                      <span>{episode.publishedAt}</span>
+                      <span>{episode.durationAsString}</span>
+                    </div>
                 </div>
 
 
